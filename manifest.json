@@ -1,0 +1,11 @@
+{
+    "name": "From Address Behavior",
+    "version": "1.0.0",
+    "type": "extension",
+    "acceptableVersions": [
+        ">=8.1.0"
+    ],
+    "releaseDate": "2025-08-31",
+    "author": "Andrew Fontana",
+    "description": "Change the From address in the email compose window to avoid accidentally sending emails from the wrong address."
+}

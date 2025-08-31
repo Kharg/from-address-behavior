@@ -1,0 +1,17 @@
+{
+    "fields": {
+        "emailAddressFromFieldBehavior": "From Email Address Behavior",
+        "predefinedCustomFromAddress": "Predefined Custom From Address"
+    },
+    "tooltips": {
+        "emailAddressFromFieldBehavior": "From Email Address mode for the compose modal. \n\n**Default Behavior**: Default EspoCRM Behavior. \n\n**Empty Email Address**: The From email address will not be pre-filled. \n\n**Use Predefined From Address**: A custom predefined email address will be used.",
+        "predefinedCustomFromAddress": "The Predefined Custom From Address to use."
+    },
+    "options": {
+        "emailAddressFromFieldBehavior": {
+            "defaultBehavior": "Default Behavior",
+            "emptyEmailAddress": "Empty Email Address",
+            "usePredefinedFromAddress": "Use Predefined From Address"
+        }
+    }
+}

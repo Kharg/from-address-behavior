@@ -1,0 +1,10 @@
+{
+    "params": {
+        "emailAddressFromFieldBehavior": {
+            "level": "default"
+        },
+        "predefinedCustomFromAddress": {
+            "level": "default"
+        }
+    }
+}

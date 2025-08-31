@@ -1,0 +1,16 @@
+{
+    "fields": {
+    "emailAddressFromFieldBehavior": {
+            "type": "enum",
+            "options": ["defaultBehavior", "emptyEmailAddress", "usePredefinedFromAddress"],
+            "default": "defaultBehavior",
+            "tooltip": true
+    },
+    "predefinedCustomFromAddress": {
+            "type": "varchar",
+            "view": "views/email/fields/email-address",
+            "default": "",
+            "tooltip": true
+    }
+  }
+}

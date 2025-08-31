@@ -1,0 +1,8 @@
+{
+    "labels": {
+        "FromAddressBehavior": "From Address Behavior"
+    },
+    "descriptions": {
+        "FromAddressBehaviorDescription": "Compose Modal From Address Settings."
+    }
+}
